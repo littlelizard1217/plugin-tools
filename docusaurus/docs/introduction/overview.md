@@ -7,7 +7,7 @@ keywords:
  - plugin
  - development
 title: Grafana plugin developer's guide
-sidebar_position: 0.5
+sidebar_position: 1
 ---
 
 # Grafana plugin developer's guide
