@@ -1,5 +1,5 @@
 ---
-id: overview
+id: plugin-overview
 description: Introduction to the plugin tools site on the Grafana developer portal.
 keywords:
  - grafana
