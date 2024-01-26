@@ -1,6 +1,0 @@
-{
-  "features": {
-    {{#if bundleGrafanaUI}}
-    "bundleGrafanaUI": true{{/if}}
-  }
-}
